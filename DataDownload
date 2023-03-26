@@ -42,7 +42,7 @@ while True:
     month = date.month
     day = date.day
 
-    # Check if we've reached the end of the range (January 1, 2018 to March 8, 2023)
+    # Check if we've reached the end of the range
     if year == 2016 and month == 1 and day == 1:
         break
 
