@@ -18,13 +18,3 @@ Please answer a minimum of 2 sub questions:
 
 #  The Data:
 
-
-AIS Shipping data 2015 to 2022
-new data from here: https://www.kaggle.com/datasets/hattiemaryphillips/ais-60n-2018-2022
-
-from here: https://coast.noaa.gov/htdata/CMSP/AISDataHandler/2021/index.html
-
-#  Additional Links:
->https://nsidc.org/home
-
->https://www.aishub.net/
