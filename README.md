@@ -20,8 +20,15 @@ Please answer a minimum of 2 sub questions:
 
 Some small caveats on the new data:
 
-The MMSI in real data has actual meaning (like some digits are a country code). The MMSIs in this are just random numbers.  Don’t listen to them.
-The data has been resampled to the 3hr samples.  It is not representative of the output of a transponder, it is something a commercial provider might do before giving it to you.
-The fake data simulated very, very cleaned and filtered data without fishing vessels, without vessels of unknown type.
-The data has been clipped to the areas generally regarded as prone to ice danger.
-The ship names are taken from a list of ship names on Wikipedia.
+-The MMSI in real data has actual meaning (like some digits are a country code). The MMSIs in this are just random numbers.  Don’t listen to them.
+
+-The data has been resampled to the 3hr samples.  It is not representative of the output of a transponder, it is something a commercial provider might do before giving it to you.
+
+
+-The fake data simulated very, very cleaned and filtered data without fishing vessels, without vessels of unknown type.
+
+
+-The data has been clipped to the areas generally regarded as prone to ice danger.
+
+
+-The ship names are taken from a list of ship names on Wikipedia.
